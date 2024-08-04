@@ -1,0 +1,42 @@
+{
+    "0": {
+        "username": "admin",
+        "password": "admin",
+        "email": "admin@email.com",
+        "role": "admin",
+        "money": 8000,
+        "id": 0
+    },
+    "1": {
+        "username": "user1",
+        "password": "pass1",
+        "email": "valid@email.com",
+        "role": "user",
+        "money": 397,
+        "id": 1
+    },
+    "65a4579748680": {
+        "username": "user2",
+        "password": "user2pass",
+        "email": "user2@email.com",
+        "role": "user",
+        "money": 797,
+        "id": "65a4579748680"
+    },
+    "65a6d92e3e23a": {
+        "username": "user3",
+        "password": "pass1",
+        "email": "pass3@email.hu",
+        "role": "user",
+        "money": 479,
+        "id": "65a6d92e3e23a"
+    },
+    "66ae7a172a1b7": {
+        "username": "admin2",
+        "password": "123",
+        "email": "szabomail00@gmail.com",
+        "role": "user",
+        "money": 250,
+        "id": "66ae7a172a1b7"
+    }
+}

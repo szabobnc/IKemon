@@ -1,0 +1,11 @@
+div .profile{
+    font-weight: bold;
+    font-style: white;
+    border: cadetblue solid 3px;
+    border-radius: 10px;
+    background-color: lightblue;
+    padding: 5px 30px;
+    margin: 10px auto;
+    width: fit-content;
+    text-align: center;
+}
